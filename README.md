@@ -1,4 +1,4 @@
-# Charlson Comorbidity Index (CCI) and Age-Adjusted CCI (ACCI) Calculation
+# Epic Cosmos SQL Implementation of Charlson Comorbidity Index (CCI) and Age-Adjusted CCI (ACCI)  
 
 This repository contains SQL code for calculating the Charlson Comorbidity Index (CCI) and the Age-Adjusted Charlson Comorbidity Index (ACCI) using ICD-10 diagnosis codes from Epic Cosmos electronic health record (EHR) data.
 
